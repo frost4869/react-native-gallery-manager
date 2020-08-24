@@ -6,13 +6,13 @@
 ## Installation
 
 ```bash
-npm install --save react-native-gallery-manager
+npm install --save @frost4869/react-native-gallery-manager
 ```
 
 or
 
 ```bash
-yarn add react-native-gallery-manager
+yarn add @frost4869/react-native-gallery-manager
 ```
 
 and then
